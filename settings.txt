@@ -1,4 +1,4 @@
 name=allies
-author=eden/brandon
-description=bowser and glados are determinedto get rid of you
+author=esg/ak/bl
+description=bowser and glados are determined to get rid of you
 lives=15
