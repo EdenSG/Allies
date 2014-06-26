@@ -1,0 +1,6 @@
+collision=false
+portalable=false
+water=false
+breakable=false
+coin=false
+delay=80

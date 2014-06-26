@@ -1,0 +1,4 @@
+collision=false
+portalable=false
+water=false
+delay=70

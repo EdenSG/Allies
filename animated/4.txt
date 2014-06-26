@@ -1,0 +1,7 @@
+collision=true
+portalable=false
+jumpthrough=true
+grate=true
+water=false
+breakable=false
+delay=800,100,100,100
